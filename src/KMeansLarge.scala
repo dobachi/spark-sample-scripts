@@ -8,7 +8,7 @@ println("")
 println("Define the input data")
 println("=====================")
 println("")
-val dataUrl = "s3n://dobashim/data/USCensus1990.data.txt"
+val dataUrl = "s3n://xxxxxxxxxx/USCensus1990.data.txt"
 val data = sqlContext.read.format("com.databricks.spark.csv").option("inferSchema", "true").option("header", "true").load(dataUrl)
 data.registerTempTable("input")
 
