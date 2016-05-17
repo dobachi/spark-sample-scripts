@@ -1,3 +1,8 @@
+println("")
+println("*************************")
+println("WordCount")
+println("*************************")
+println("")
 val sparkHome = sys.env("SPARK_HOME")
 val path = sparkHome + "/CHANGES.txt"
 val textFile = sc.textFile(path)
