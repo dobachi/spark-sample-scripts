@@ -2,3 +2,4 @@ metastore_db/
 derby.log
 *~
 *.swp
+config.properties
