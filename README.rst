@@ -3,7 +3,7 @@ Spark simple exmaples
 *****************************
 
 This is a set of Spark application examples,
-which is run on spark-shell.
+which run on spark-shell.
 
 WordCount
 =========
