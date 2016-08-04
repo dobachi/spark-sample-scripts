@@ -1,7 +1,18 @@
 # Spark simple exmaples
 
-This is a set of Spark application examples,
+This is a set of Spark application script examples,
 which run on spark-shell.
+
+You can use these scripts as references and execute them on spark-shell with :load function as a test.
+
+feature
+
+* Easy to run
+* Easy to modify
+* Suitable for beginners
+
+THe following is the example to execute on spark-shell by :load function.
+After these examples, please refer to example's contents.
 
 ## WordCount
 Start spark-shell
