@@ -12,7 +12,8 @@ feature
 * Suitable for beginners
 
 THe following is the example to execute on spark-shell by :load function.
-After these examples, please refer to example's contents.
+If you want to know the detail of this scrpits,
+please refer to "src" directory.
 
 ## WordCount
 Start spark-shell
