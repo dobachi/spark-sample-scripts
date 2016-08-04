@@ -1,4 +1,4 @@
-# Spark simple exmaples
+# Spark simple exmaples ver 0.1.0
 
 This is a set of Spark application script examples,
 which run on spark-shell.
@@ -105,4 +105,6 @@ Load scala scripts
 scala> :load src/Tweet.scala
 ```
 
+# Release note
 
+* 0.1.0: first version with several simple examples.
